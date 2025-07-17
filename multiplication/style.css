@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  text-align: center;
+}
+
+#question {
+  font-size: 2rem;
+  margin: 1rem 0;
+}
+
+#timer {
+  font-size: 1.5rem;
+  color: red;
+}
+
+input {
+  font-size: 1.2rem;
+  padding: 0.5rem;
+  width: 100px;
+}
+
+table {
+  margin: 2rem auto;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+td, th {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+}
+
+.correct {
+  background-color: #c8f7c5;
+}
+
+.wrong {
+  background-color: #f7c5c5;
+}
+
+button {
+  padding: 0.7rem 1.2rem;
+  font-size: 1rem;
+  margin-top: 1rem;
+}
